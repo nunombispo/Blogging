@@ -71,7 +71,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'Blogging.wsgi.application'
 
-LOGIN_REDIRECT_URL = '/blog/'  # Assuming your blog list is at this URL
+LOGIN_REDIRECT_URL = '/'  # Assuming your blog list is at this URL
 
 
 # Database
